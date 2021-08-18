@@ -41,11 +41,12 @@ h1{
     margin: 10% 40% 10% 40%;
     padding: 10px 30px 10px 30px;
 }
-.formpadding{
+/* .formpadding{ */
+    /* This is for testing to center the form */
     /* margin: 0 40px 0 0; */
     /* padding: 10px 10px 10px 10px; */
-    width: 100%;
-}
+    /* width: 100%; */
+/* } */
 .pic{
     height: 40px;
     border-radius: 25%;
