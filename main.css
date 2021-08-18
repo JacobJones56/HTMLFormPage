@@ -6,8 +6,9 @@ body{
 h1{
     width: 90%;
     margin: 5% 5% 10px 5%;
+    /* padding: 0 40px 0 0; */
     position: relative;
-    float: left;
+    /* float: center; */
 
 }
 .navButton{
@@ -39,4 +40,21 @@ h1{
     border-radius: 10px;
     margin: 10% 40% 10% 40%;
     padding: 10px 30px 10px 30px;
+}
+.formpadding{
+    /* margin: 0 40px 0 0; */
+    /* padding: 10px 10px 10px 10px; */
+    width: 100%;
+}
+.pic{
+    height: 40px;
+    border-radius: 25%;
+
+}
+
+.socialbutton{
+    margin: 0 20px 0 0;
+    height: 40px;
+    border-radius: 25%;
+    border: hidden;
 }
