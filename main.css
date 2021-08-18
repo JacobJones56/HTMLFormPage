@@ -48,14 +48,14 @@ h1{
     /* width: 100%; */
 /* } */
 .pic{
-    height: 40px;
+    height: 25px;
     border-radius: 25%;
 
 }
 
 .socialbutton{
-    margin: 0 20px 0 0;
-    height: 40px;
+    margin: 0 10px 0 0;
+    height: 25px;
     border-radius: 25%;
     border: hidden;
 }
